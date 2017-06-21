@@ -1,12 +1,12 @@
-# RTL Lowest Common Multiple Calculator
+# About
 
-Algorithmic state machine that computes the lowest common multiple of two 8-bit numbers. Written in VHDL.
+This algorithmic state machine  computes the lowest common multiple of two input 8-bit integers. Written in VHDL and tested on the Altera Cyclone IV FPGA board.
 
-### Synthesized Circuit
+# Synthesized Circuit
 
 ![Alt text](/synthesized_circuit.png "Synthesized Circuit")
 
-### Tests
+# Tests
 
 Inputs are stored in the "mick" and "keith" registers. Output is displayed on the "lcm" line when "done" is enabled.
 
