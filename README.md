@@ -7,6 +7,7 @@ This algorithmic state machine  computes the lowest common multiple of two input
 ![Alt text](/synthesized_circuit.png "Synthesized Circuit")
 
 # Tests
+Inputs are stored in the "mick" and "keith" registers. Output is displayed on the "lcm" line when "done" is enabled.
 
 ![Alt text](/test1.jpg "Test 1")
 
