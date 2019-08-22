@@ -1,5 +1,7 @@
 # Synthesized Circuit
 
+Circuit synthesized with Xilinx ISE.
+
 ![Alt text](/synthesized_circuit.png "Synthesized Circuit")
 
 # Tests
